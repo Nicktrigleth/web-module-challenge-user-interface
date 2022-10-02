@@ -76,7 +76,7 @@ margin: 20px;
 /*======= Create a selector for the about section to have the following styles:
   margin-top: 20px;
 */
-.about {
+section.about {
   margin-top: 20px;
 }
 .contact-section {
